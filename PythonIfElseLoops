@@ -1,0 +1,5 @@
+x = 23
+if(x>24):
+ print("23 is greather than 24")
+Else:
+ print("23 is smaller than 24")
